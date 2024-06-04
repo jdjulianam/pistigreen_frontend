@@ -147,4 +147,4 @@ pistigreen_frontend/
 
 
 ## Enlace del despliegue
-<a href="https://pistigreenfront.vercel.app/ ">Despliegue</a>
+<a href="https://pistigreenfront.vercel.app/ ">Despliegue</a>   cuenta activa oara iniciar sesión: juli.mm134@gmail.com  password: julime...jmm13495
